@@ -1,6 +1,4 @@
-This workflow uses SQL, Python, and machine learning to derive actionable insights from sales data.
-
-"A scenario I created: Mr Justin just had his first month (July) of sales, but he recorded the data in a book, so he need it to be transformed into a SQL database, do EDA to see how the data looks like and see who are his frequent customers, do some machine learning predictions to forecast the upcoming month sales in order to have enough inventory"
+A scenario I created "Mr Pilusa just had his first month (July) of electronics sales, but he is old school, so he recorded the data in a book, he need it to be transformed into a SQL database, do EDA to see how the data looks like and see who are his frequent customers, do some machine learning predictions to forecast the upcoming month sales in order to have enough inventory"
 
 
 
